@@ -1,0 +1,70 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=SKQ1.210216.001
+ro.product.manufacturer=realme
+ro.product.brand=realme
+ro.product.model=RMX2081
+ro.product.name=RMX2081TR
+ro.product.device=RMX2081L1
+ro.product.first_api_level=29
+ro.build.version.incremental=1658767885568
+ro.build.version.release=12
+ro.build.fingerprint=realme/RMX2081TR/RMX2081L1:12/SKQ1.210216.001/1658767885568:user/release-keys
+ro.odm.build.fingerprint=realme/RMX2081TR/RMX2081L1:12/SKQ1.210216.001/1658767885568:user/release-keys
+ro.odm.build.version.incremental=1658767885568
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX2081
+ro.product.odm.device=RMX2081L1
+ro.product.odm.name=RMX2081TR
+ro.odm.build.date=Tue Jul 26 00:51:25 CST 2022
+ro.odm.build.date.utc=1658767885
+ro.system.build.fingerprint=realme/RMX2081TR/RMX2081L1:12/SKQ1.210216.001/1658767885568:user/release-keys
+ro.system.build.version.incremental=1658767885568
+ro.product.system.brand=realme
+ro.product.system.manufacturer=realme
+ro.product.system.model=RMX2081
+ro.product.system.device=RMX2081L1
+ro.product.system.name=RMX2081TR
+ro.system.build.date=Tue Jul 26 00:51:25 CST 2022
+ro.system.build.date.utc=1658767885
+ro.bootimage.build.fingerprint=realme/RMX2081TR/RMX2081L1:12/SKQ1.210216.001/1658767885568:user/release-keys
+ro.bootimage.build.version.incremental=1658767885568
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX2081
+ro.product.bootimage.device=RMX2081L1
+ro.product.bootimage.name=RMX2081TR
+ro.bootimage.build.date=Tue Jul 26 00:51:25 CST 2022
+ro.bootimage.build.date.utc=1658767885
+ro.vendor.build.fingerprint=realme/RMX2081TR/RMX2081L1:12/SKQ1.210216.001/1658767885568:user/release-keys
+ro.vendor.build.version.incremental=1658767885568
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX2081
+ro.product.vendor.device=RMX2081L1
+ro.product.vendor.name=RMX2081TR
+ro.vendor.build.date=Tue Jul 26 00:51:25 CST 2022
+ro.vendor.build.date.utc=1658767885
+ro.system_ext.build.fingerprint=realme/RMX2081TR/RMX2081L1:12/SKQ1.210216.001/1658767885568:user/release-keys
+ro.system_ext.build.version.incremental=1658767885568
+ro.product.system_ext.brand=realme
+ro.product.system_ext.manufacturer=realme
+ro.product.system_ext.model=RMX2081
+ro.product.system_ext.device=RMX2081L1
+ro.product.system_ext.name=RMX2081TR
+ro.system_ext.build.date=Tue Jul 26 00:51:25 CST 2022
+ro.system_ext.build.date.utc=1658767885
+ro.product.build.fingerprint=realme/RMX2081TR/RMX2081L1:12/SKQ1.210216.001/1658767885568:user/release-keys
+ro.product.build.version.incremental=1658767885568
+ro.product.product.brand=realme
+ro.product.product.manufacturer=realme
+ro.product.product.model=RMX2081
+ro.product.product.device=RMX2081L1
+ro.product.product.name=RMX2081TR
+ro.product.build.date=Tue Jul 26 00:51:25 CST 2022
+ro.product.build.date.utc=1658767885
+
+# OPPO

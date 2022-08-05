@@ -1,0 +1,18 @@
+## qssi-user 12 SKQ1.211113.001 1658765450117 release-keys
+- Manufacturer: qualcomm
+- Platform: msmnile
+- Codename: msmnile
+- Brand: qti
+- Flavor: qssi-user
+- Release Version: 12
+- Id: SKQ1.211113.001
+- Incremental: 1658765450117
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: qti/msmnile/msmnile:12/SKQ1.210216.001/1658765273504:user/release-keys
+- OTA version: 
+- Branch: qssi-user-12-SKQ1.211113.001-1658765450117-release-keys
+- Repo: qti/msmnile
